@@ -1,2 +1,2 @@
-#Code Unatti
+# Code Unatti
 Data analysis on vacation data examines travel destinations, expenses, durations, and traveler preferences to uncover trends and optimize leisure experiences. By applying descriptive analytics, analysts reveal popular destinations and spending patterns; predictive analytics enables forecasting of peak travel times or budget requirements; and prescriptive analytics suggests personalized recommendations, cost-saving strategies, and itinerary improvements. This approach empowers travel agencies, businesses, and individuals to make data-driven decisions, enhancing satisfaction and streamlining vacation planning for successful and memorable getaways.
